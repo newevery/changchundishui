@@ -1,0 +1,189 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bumanyi_bg"
+    android:orientation="vertical" >
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_marginTop="20dp"
+        android:layout_weight="1"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TextView
+                style="@style/qs_txtTitle"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="30dp"
+                android:text="@string/qs_tips_title1"
+                android:textStyle="bold" />
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="16dp"
+                android:gravity="center_vertical" >
+
+                <TextView
+                    style="@style/qs_txt"
+                    android:text="@string/qs_ques_1" />
+
+                <include layout="@layout/view_qs_select" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:gravity="center_vertical" >
+
+                <TextView
+                    style="@style/qs_txt"
+                    android:text="@string/qs_ques_2" />
+
+                <include layout="@layout/view_qs_select" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:gravity="center_vertical" >
+
+                <TextView
+                    style="@style/qs_txt"
+                    android:text="@string/qs_ques_3" />
+
+<!--                 <include layout="@layout/view_qs_select" /> -->
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:gravity="center_vertical" >
+
+                <TextView
+                    style="@style/qs_txt"
+                    android:text="@string/qs_ques_4" />
+
+                <include layout="@layout/view_qs_select" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:gravity="center_vertical" >
+
+                <TextView
+                    style="@style/qs_txt"
+                    android:text="@string/qs_ques_5" />
+
+                <include layout="@layout/view_qs_select" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:gravity="center_vertical" >
+
+                <TextView
+                    style="@style/qs_txt"
+                    android:text="@string/qs_ques_6" />
+
+                <include layout="@layout/view_qs_select" />
+            </LinearLayout>
+
+            <!-- 第二项开始 -->
+
+            <TextView
+                style="@style/qs_txtTitle"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="40dp"
+                android:text="@string/qs_tips_title2"
+                android:textStyle="bold" />
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="16dp"
+                android:gravity="center_vertical" >
+
+                <TextView
+                    style="@style/qs_txt"
+                    android:text="@string/qs_ques1_1" />
+
+                <include layout="@layout/view_qs_select" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:gravity="center_vertical" >
+
+                <TextView
+                    style="@style/qs_txt"
+                    android:text="@string/qs_ques1_2" />
+
+                <include layout="@layout/view_qs_select" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:gravity="center_vertical" >
+
+                <TextView
+                    style="@style/qs_txt"
+                    android:text="@string/qs_ques1_3" />
+
+                <include layout="@layout/view_qs_select" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginBottom="40dp"
+                android:gravity="center_vertical" >
+
+                <TextView
+                    style="@style/qs_txt"
+                    android:text="@string/qs_ques1_4" />
+
+                <include layout="@layout/view_qs_select" />
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="35dp"
+        android:gravity="center_horizontal" >
+
+        <Button
+            android:id="@+id/business_button_ok"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginLeft="20dp"
+            android:background="@drawable/selector_qd_bg"
+            android:text="@string/app_btn_ok"
+            android:textColor="@color/black"
+            android:textSize="@dimen/business_txt_Size" />
+    </LinearLayout>
+
+</LinearLayout>

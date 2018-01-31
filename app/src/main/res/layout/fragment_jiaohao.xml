@@ -1,0 +1,50 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <ImageView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/jiaoHao_img_margin_left"
+        android:layout_marginRight="@dimen/jiaoHao_img_margin_right"
+        android:layout_marginTop="@dimen/public_right_margin_top"
+        android:scaleType="fitXY"
+        android:src="@drawable/ztfw_up" />
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/jiaoHao_img_margin_left"
+        android:layout_marginRight="@dimen/jiaoHao_img_margin_right"
+        android:background="@drawable/ztfw_down"
+        android:gravity="center" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center" 
+            android:gravity="center">
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/coffee" 
+                android:layout_marginTop="-8dp"/>
+
+            <TextView
+                android:id="@+id/jiaohao_textView_info"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:drawablePadding="@dimen/drawable_padding"
+                android:gravity="center"
+                android:layout_marginLeft="40dp"
+                android:textSize="44sp"
+                android:textColor="@color/white" >
+            </TextView>
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

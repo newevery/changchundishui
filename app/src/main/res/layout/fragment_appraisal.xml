@@ -1,0 +1,90 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <RelativeLayout
+        android:id="@+id/appraisal_layout_firstContainer"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" >
+
+        <LinearLayout
+            android:id="@+id/appraisal_layout_btns"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/appraisal_layout_tips"
+            android:background="@drawable/apprisal_container_bg"
+            android:gravity="center_horizontal" >
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                >
+
+                <TextView
+                    android:id="@+id/appraisal_textView_fcmy"
+                    style="@style/pjiaBtn"
+                    android:clickable="true"
+                    android:drawableTop="@drawable/fcmy"
+                    android:text="非常满意" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="@dimen/appraisal_btn_margingSize"
+                android:gravity="center" >
+
+                <TextView
+                    android:id="@+id/appraisal_textView_my"
+                    style="@style/pjiaBtn"
+                    android:drawableTop="@drawable/my"
+                    android:text="满意" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="@dimen/appraisal_btn_margingSize"
+                android:gravity="center" >
+
+                <TextView
+                    android:id="@+id/appraisal_textView_yb"
+                    style="@style/pjiaBtn"
+                    android:drawableTop="@drawable/yb"
+                    android:text="一般" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="@dimen/appraisal_btn_margingSize"
+                android:gravity="center" >
+
+                <TextView
+                    android:id="@+id/appraisal_textView_bmy"
+                    style="@style/pjiaBtn"
+                    android:drawableTop="@drawable/bmy"
+                    android:text="不满意" />
+            </LinearLayout>
+        </LinearLayout>
+
+        <ImageView
+            android:id="@+id/appraisal_layout_tips"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="-26dp"
+            android:layout_marginTop="@dimen/public_right_margin_appraisal_top"
+            android:src="@drawable/qdwdfwzcpj" />
+    </RelativeLayout>
+
+    <FrameLayout
+        android:id="@+id/appraisal_layout_bmyContainer"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:visibility="gone" >
+    </FrameLayout>
+
+</FrameLayout>

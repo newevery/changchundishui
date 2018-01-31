@@ -1,0 +1,4 @@
+#Tue Jan 30 10:33:24 CST 2018
+base.0=D\:\\workspace\\ChangChunDiShuiFuWu\\changchundishui\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\29
+path.0=classes.dex
+renamed.0=classes.dex

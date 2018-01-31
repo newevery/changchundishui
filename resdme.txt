@@ -1,0 +1,8 @@
+1.http://blog.csdn.net/ouyang_peng/article/details/48048975
+          Android中MediaRecorder.stop()报错 java.lang.RuntimeException: stop failed.
+          RecordMediaThread.java  181hang
+2.            http://blog.csdn.net/mingzhehaolove/article/details/49910445
+            Try to initialize ImageLoader which had already been initialized before. To re-init ImageLoader with
+            DefaultFragment1  97hang    if (ImageLoaderConfiguration.createDefault(getActivity()) != null) {
+                                             imageLoader.init(ImageLoaderConfiguration.createDefault(getActivity()));
+                                         }

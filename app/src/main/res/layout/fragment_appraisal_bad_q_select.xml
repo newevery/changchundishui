@@ -1,0 +1,82 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="15dp"
+    android:background="@drawable/bumanyi_bg"
+    android:orientation="vertical" >
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="120dp"
+        android:text="不满意原因"
+        android:textColor="@color/white"
+        android:textSize="26sp" />
+
+    <LinearLayout
+        android:id="@+id/appraisal_layout_btns"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/appraisal_layout_tips"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="80dp" >
+
+        <LinearLayout
+            android:id="@+id/appraisalBad_layout_hj"
+            style="@style/bmyContainer"
+             >
+
+            <TextView
+                style="@style/bmyText"
+                android:text="环境" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/appraisalBad_layout_fwtd"
+            style="@style/bmyContainer"
+            android:layout_marginLeft="@dimen/appraisal_btn_margingSize"
+            android:orientation="vertical" >
+
+            <TextView
+                style="@style/bmyText"
+                android:text="服务" />
+
+            <TextView
+                style="@style/bmyText"
+                android:text="态度" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/appraisalBad_layout_ywnl"
+            style="@style/bmyContainer"
+            android:layout_marginLeft="@dimen/appraisal_btn_margingSize"
+            android:orientation="vertical" >
+
+            <TextView
+                style="@style/bmyText"
+                android:text="业务" />
+
+            <TextView
+                style="@style/bmyText"
+                android:text="能力" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/appraisalBad_layout_qt"
+            style="@style/bmyContainer"
+            android:layout_marginLeft="@dimen/appraisal_btn_margingSize"
+            android:orientation="vertical" >
+
+            <TextView
+                style="@style/bmyText"
+                android:text="其他" />
+
+<!--             <TextView -->
+<!--                 style="@style/bmyText" -->
+<!--                 android:text="态度" /> -->
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

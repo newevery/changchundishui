@@ -1,0 +1,75 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bumanyi_bg"
+    android:orientation="vertical" >
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:layout_marginTop="20dp"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/business_textView_mc"
+                style="@style/business_txt"
+                android:text="@string/handleBusiness_mc" />
+
+            <TextView
+                android:id="@+id/business_textView_sm"
+                style="@style/business_txt"
+                android:text="@string/handleBusiness_need_sm" />
+
+            <TextView
+                android:id="@+id/business_textView_lc"
+                style="@style/business_txt"
+                android:text="@string/handleBusiness_need_lc" />
+
+            <TextView
+                android:id="@+id/business_textView_cl"
+                style="@style/business_txt"
+                android:text="@string/handleBusiness_need_sxcl" />
+
+            <TextView
+                android:id="@+id/business_textView_sx"
+                style="@style/business_txt"
+                android:text="@string/handleBusiness_need_blsx" />
+        </LinearLayout>
+    </ScrollView>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="35dp"
+        android:gravity="center_horizontal" >
+
+        <Button
+            android:id="@+id/business_button_cancel"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:background="@drawable/selector_qd_bg"
+            android:text="@string/app_btn_cancel"
+            android:textColor="@color/black"
+            android:textSize="@dimen/business_txt_Size" />
+
+        <Button
+            android:id="@+id/business_button_ok"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginLeft="20dp"
+            android:background="@drawable/selector_qd_bg"
+            android:text="@string/app_btn_ok"
+            android:textColor="@color/black"
+            android:textSize="@dimen/business_txt_Size" />
+    </LinearLayout>
+
+</LinearLayout>

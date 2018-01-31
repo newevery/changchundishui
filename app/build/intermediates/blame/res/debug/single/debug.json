@@ -1,0 +1,266 @@
+[
+    {
+        "merged": "D:\\workspace\\ChangChunDiShuiFuWu\\changchundishui\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_main_bg_right.png.flat",
+        "source": "D:\\workspace\\ChangChunDiShuiFuWu\\changchundishui\\app\\src\\main\\res\\drawable-mdpi\\main_bg_right.png"
+    },
+    {
+        "merged": "D:\\workspace\\ChangChunDiShuiFuWu\\changchundishui\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_apprisal_bmy_bg_pre.png.flat",
+        "source": "D:\\workspace\\ChangChunDiShuiFuWu\\changchundishui\\app\\src\\main\\res\\drawable-mdpi\\apprisal_bmy_bg_pre.png"
+    },
+    {
+        "merged": "D:\\workspace\\ChangChunDiShuiFuWu\\changchundishui\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_appraisal_bad_q_select.xml.flat",
+        "source": "D:\\workspace\\ChangChunDiShuiFuWu\\changchundishui\\app\\src\\main\\res\\layout\\fragment_appraisal_bad_q_select.xml"
+    },
+    {
+        "merged": "D:\\workspace\\ChangChunDiShuiFuWu\\changchundishui\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_log_head.jpg.flat",
+        "source": "D:\\workspace\\ChangChunDiShuiFuWu\\changchundishui\\app\\src\\main\\res\\drawable-mdpi\\log_head.jpg"
+    },
+    {
+        "merged": "D:\\workspace\\ChangChunDiShuiFuWu\\changchundishui\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\workspace\\ChangChunDiShuiFuWu\\changchundishui\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\workspace\\ChangChunDiShuiFuWu\\changchundishui\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_fcmy.png.flat",
+        "source": "D:\\workspace\\ChangChunDiShuiFuWu\\changchundishui\\app\\src\\main\\res\\drawable-mdpi\\fcmy.png"
+    },
+    {
+        "merged": "D:\\workspace\\ChangChunDiShuiFuWu\\changchundishui\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_bmy.png.flat",
+        "source": "D:\\workspace\\ChangChunDiShuiFuWu\\changchundishui\\app\\src\\main\\res\\drawable-mdpi\\bmy.png"
+    },
+    {
+        "merged": "D:\\workspace\\ChangChunDiShuiFuWu\\changchundishui\\app\\build\\intermediates\\res\\merged\\debug\\drawable_appraisal_bmy_bg.xml.flat",
+        "source": "D:\\workspace\\ChangChunDiShuiFuWu\\changchundishui\\app\\src\\main\\res\\drawable\\appraisal_bmy_bg.xml"
+    },
+    {
+        "merged": "D:\\workspace\\ChangChunDiShuiFuWu\\changchundishui\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_apprisal_container_bg.png.flat",
+        "source": "D:\\workspace\\ChangChunDiShuiFuWu\\changchundishui\\app\\src\\main\\res\\drawable-mdpi\\apprisal_container_bg.png"
+    },
+    {
+        "merged": "D:\\workspace\\ChangChunDiShuiFuWu\\changchundishui\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_pager_image.xml.flat",
+        "source": "D:\\workspace\\ChangChunDiShuiFuWu\\changchundishui\\app\\src\\main\\res\\layout\\item_pager_image.xml"
+    },
+    {
+        "merged": "D:\\workspace\\ChangChunDiShuiFuWu\\changchundishui\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_btn_bg_pre.png.flat",
+        "source": "D:\\workspace\\ChangChunDiShuiFuWu\\changchundishui\\app\\src\\main\\res\\drawable-mdpi\\btn_bg_pre.png"
+    },
+    {
+        "merged": "D:\\workspace\\ChangChunDiShuiFuWu\\changchundishui\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_canvas.xml.flat",
+        "source": "D:\\workspace\\ChangChunDiShuiFuWu\\changchundishui\\app\\src\\main\\res\\layout\\activity_canvas.xml"
+    },
+    {
+        "merged": "D:\\workspace\\ChangChunDiShuiFuWu\\changchundishui\\app\\build\\intermediates\\res\\merged\\debug\\anim_defalut_img_exit.xml.flat",
+        "source": "D:\\workspace\\ChangChunDiShuiFuWu\\changchundishui\\app\\src\\main\\res\\anim\\defalut_img_exit.xml"
+    },
+    {
+        "merged": "D:\\workspace\\ChangChunDiShuiFuWu\\changchundishui\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\workspace\\ChangChunDiShuiFuWu\\changchundishui\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\workspace\\ChangChunDiShuiFuWu\\changchundishui\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rating_bar.xml.flat",
+        "source": "D:\\workspace\\ChangChunDiShuiFuWu\\changchundishui\\app\\src\\main\\res\\drawable\\rating_bar.xml"
+    },
+    {
+        "merged": "D:\\workspace\\ChangChunDiShuiFuWu\\changchundishui\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_test_header.jpg.flat",
+        "source": "D:\\workspace\\ChangChunDiShuiFuWu\\changchundishui\\app\\src\\main\\res\\drawable-mdpi\\test_header.jpg"
+    },
+    {
+        "merged": "D:\\workspace\\ChangChunDiShuiFuWu\\changchundishui\\app\\build\\intermediates\\res\\merged\\debug\\drawable_selector_qd_bg.xml.flat",
+        "source": "D:\\workspace\\ChangChunDiShuiFuWu\\changchundishui\\app\\src\\main\\res\\drawable\\selector_qd_bg.xml"
+    },
+    {
+        "merged": "D:\\workspace\\ChangChunDiShuiFuWu\\changchundishui\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ztfw_up.png.flat",
+        "source": "D:\\workspace\\ChangChunDiShuiFuWu\\changchundishui\\app\\src\\main\\res\\drawable-mdpi\\ztfw_up.png"
+    },
+    {
+        "merged": "D:\\workspace\\ChangChunDiShuiFuWu\\changchundishui\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_default.xml.flat",
+        "source": "D:\\workspace\\ChangChunDiShuiFuWu\\changchundishui\\app\\src\\main\\res\\layout\\fragment_default.xml"
+    },
+    {
+        "merged": "D:\\workspace\\ChangChunDiShuiFuWu\\changchundishui\\app\\build\\intermediates\\res\\merged\\debug\\anim_pao_ma_deng.xml.flat",
+        "source": "D:\\workspace\\ChangChunDiShuiFuWu\\changchundishui\\app\\src\\main\\res\\anim\\pao_ma_deng.xml"
+    },
+    {
+        "merged": "D:\\workspace\\ChangChunDiShuiFuWu\\changchundishui\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shape_header_bg.xml.flat",
+        "source": "D:\\workspace\\ChangChunDiShuiFuWu\\changchundishui\\app\\src\\main\\res\\drawable\\shape_header_bg.xml"
+    },
+    {
+        "merged": "D:\\workspace\\ChangChunDiShuiFuWu\\changchundishui\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_my.png.flat",
+        "source": "D:\\workspace\\ChangChunDiShuiFuWu\\changchundishui\\app\\src\\main\\res\\drawable-mdpi\\my.png"
+    },
+    {
+        "merged": "D:\\workspace\\ChangChunDiShuiFuWu\\changchundishui\\app\\build\\intermediates\\res\\merged\\debug\\layout_view_info_list_popup.xml.flat",
+        "source": "D:\\workspace\\ChangChunDiShuiFuWu\\changchundishui\\app\\src\\main\\res\\layout\\view_info_list_popup.xml"
+    },
+    {
+        "merged": "D:\\workspace\\ChangChunDiShuiFuWu\\changchundishui\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_qsd.png.flat",
+        "source": "D:\\workspace\\ChangChunDiShuiFuWu\\changchundishui\\app\\src\\main\\res\\drawable-mdpi\\qsd.png"
+    },
+    {
+        "merged": "D:\\workspace\\ChangChunDiShuiFuWu\\changchundishui\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_qs.xml.flat",
+        "source": "D:\\workspace\\ChangChunDiShuiFuWu\\changchundishui\\app\\src\\main\\res\\layout\\fragment_qs.xml"
+    },
+    {
+        "merged": "D:\\workspace\\ChangChunDiShuiFuWu\\changchundishui\\app\\build\\intermediates\\res\\merged\\debug\\raw_thanks.wav.flat",
+        "source": "D:\\workspace\\ChangChunDiShuiFuWu\\changchundishui\\app\\src\\main\\res\\raw\\thanks.wav"
+    },
+    {
+        "merged": "D:\\workspace\\ChangChunDiShuiFuWu\\changchundishui\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_main_bg_left.png.flat",
+        "source": "D:\\workspace\\ChangChunDiShuiFuWu\\changchundishui\\app\\src\\main\\res\\drawable-mdpi\\main_bg_left.png"
+    },
+    {
+        "merged": "D:\\workspace\\ChangChunDiShuiFuWu\\changchundishui\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_yb.png.flat",
+        "source": "D:\\workspace\\ChangChunDiShuiFuWu\\changchundishui\\app\\src\\main\\res\\drawable-mdpi\\yb.png"
+    },
+    {
+        "merged": "D:\\workspace\\ChangChunDiShuiFuWu\\changchundishui\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shape_ratingbar_bg.xml.flat",
+        "source": "D:\\workspace\\ChangChunDiShuiFuWu\\changchundishui\\app\\src\\main\\res\\drawable\\shape_ratingbar_bg.xml"
+    },
+    {
+        "merged": "D:\\workspace\\ChangChunDiShuiFuWu\\changchundishui\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_info_list_popup.xml.flat",
+        "source": "D:\\workspace\\ChangChunDiShuiFuWu\\changchundishui\\app\\src\\main\\res\\layout\\item_info_list_popup.xml"
+    },
+    {
+        "merged": "D:\\workspace\\ChangChunDiShuiFuWu\\changchundishui\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_apprisal_bg_nor.png.flat",
+        "source": "D:\\workspace\\ChangChunDiShuiFuWu\\changchundishui\\app\\src\\main\\res\\drawable-mdpi\\apprisal_bg_nor.png"
+    },
+    {
+        "merged": "D:\\workspace\\ChangChunDiShuiFuWu\\changchundishui\\app\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
+        "source": "D:\\workspace\\ChangChunDiShuiFuWu\\changchundishui\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "D:\\workspace\\ChangChunDiShuiFuWu\\changchundishui\\app\\build\\intermediates\\res\\merged\\debug\\layout_view_home_bg_image.xml.flat",
+        "source": "D:\\workspace\\ChangChunDiShuiFuWu\\changchundishui\\app\\src\\main\\res\\layout\\view_home_bg_image.xml"
+    },
+    {
+        "merged": "D:\\workspace\\ChangChunDiShuiFuWu\\changchundishui\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "D:\\workspace\\ChangChunDiShuiFuWu\\changchundishui\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\workspace\\ChangChunDiShuiFuWu\\changchundishui\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_jiaohao.xml.flat",
+        "source": "D:\\workspace\\ChangChunDiShuiFuWu\\changchundishui\\app\\src\\main\\res\\layout\\fragment_jiaohao.xml"
+    },
+    {
+        "merged": "D:\\workspace\\ChangChunDiShuiFuWu\\changchundishui\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_record_media.xml.flat",
+        "source": "D:\\workspace\\ChangChunDiShuiFuWu\\changchundishui\\app\\src\\main\\res\\layout\\fragment_record_media.xml"
+    },
+    {
+        "merged": "D:\\workspace\\ChangChunDiShuiFuWu\\changchundishui\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_star.png.flat",
+        "source": "D:\\workspace\\ChangChunDiShuiFuWu\\changchundishui\\app\\src\\main\\res\\drawable-mdpi\\star.png"
+    },
+    {
+        "merged": "D:\\workspace\\ChangChunDiShuiFuWu\\changchundishui\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_pause_service.xml.flat",
+        "source": "D:\\workspace\\ChangChunDiShuiFuWu\\changchundishui\\app\\src\\main\\res\\layout\\fragment_pause_service.xml"
+    },
+    {
+        "merged": "D:\\workspace\\ChangChunDiShuiFuWu\\changchundishui\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_btn_bg_nor.png.flat",
+        "source": "D:\\workspace\\ChangChunDiShuiFuWu\\changchundishui\\app\\src\\main\\res\\drawable-mdpi\\btn_bg_nor.png"
+    },
+    {
+        "merged": "D:\\workspace\\ChangChunDiShuiFuWu\\changchundishui\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_handle_business_info.xml.flat",
+        "source": "D:\\workspace\\ChangChunDiShuiFuWu\\changchundishui\\app\\src\\main\\res\\layout\\fragment_handle_business_info.xml"
+    },
+    {
+        "merged": "D:\\workspace\\ChangChunDiShuiFuWu\\changchundishui\\app\\build\\intermediates\\res\\merged\\debug\\raw_welcome.wav.flat",
+        "source": "D:\\workspace\\ChangChunDiShuiFuWu\\changchundishui\\app\\src\\main\\res\\raw\\welcome.wav"
+    },
+    {
+        "merged": "D:\\workspace\\ChangChunDiShuiFuWu\\changchundishui\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon_pause.jpg.flat",
+        "source": "D:\\workspace\\ChangChunDiShuiFuWu\\changchundishui\\app\\src\\main\\res\\drawable-mdpi\\icon_pause.jpg"
+    },
+    {
+        "merged": "D:\\workspace\\ChangChunDiShuiFuWu\\changchundishui\\app\\build\\intermediates\\res\\merged\\debug\\raw_waitting.wav.flat",
+        "source": "D:\\workspace\\ChangChunDiShuiFuWu\\changchundishui\\app\\src\\main\\res\\raw\\waitting.wav"
+    },
+    {
+        "merged": "D:\\workspace\\ChangChunDiShuiFuWu\\changchundishui\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\workspace\\ChangChunDiShuiFuWu\\changchundishui\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\workspace\\ChangChunDiShuiFuWu\\changchundishui\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_star_half.png.flat",
+        "source": "D:\\workspace\\ChangChunDiShuiFuWu\\changchundishui\\app\\src\\main\\res\\drawable-mdpi\\star_half.png"
+    },
+    {
+        "merged": "D:\\workspace\\ChangChunDiShuiFuWu\\changchundishui\\app\\build\\intermediates\\res\\merged\\debug\\drawable_selector_info_pop_item_bg.xml.flat",
+        "source": "D:\\workspace\\ChangChunDiShuiFuWu\\changchundishui\\app\\src\\main\\res\\drawable\\selector_info_pop_item_bg.xml"
+    },
+    {
+        "merged": "D:\\workspace\\ChangChunDiShuiFuWu\\changchundishui\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_stop.png.flat",
+        "source": "D:\\workspace\\ChangChunDiShuiFuWu\\changchundishui\\app\\src\\main\\res\\drawable-mdpi\\stop.png"
+    },
+    {
+        "merged": "D:\\workspace\\ChangChunDiShuiFuWu\\changchundishui\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_user_default_header.jpg.flat",
+        "source": "D:\\workspace\\ChangChunDiShuiFuWu\\changchundishui\\app\\src\\main\\res\\drawable-mdpi\\user_default_header.jpg"
+    },
+    {
+        "merged": "D:\\workspace\\ChangChunDiShuiFuWu\\changchundishui\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_appraisal.xml.flat",
+        "source": "D:\\workspace\\ChangChunDiShuiFuWu\\changchundishui\\app\\src\\main\\res\\layout\\fragment_appraisal.xml"
+    },
+    {
+        "merged": "D:\\workspace\\ChangChunDiShuiFuWu\\changchundishui\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_paomadeng.xml.flat",
+        "source": "D:\\workspace\\ChangChunDiShuiFuWu\\changchundishui\\app\\src\\main\\res\\layout\\fragment_paomadeng.xml"
+    },
+    {
+        "merged": "D:\\workspace\\ChangChunDiShuiFuWu\\changchundishui\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_bumanyi_bg.png.flat",
+        "source": "D:\\workspace\\ChangChunDiShuiFuWu\\changchundishui\\app\\src\\main\\res\\drawable-mdpi\\bumanyi_bg.png"
+    },
+    {
+        "merged": "D:\\workspace\\ChangChunDiShuiFuWu\\changchundishui\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_default1.xml.flat",
+        "source": "D:\\workspace\\ChangChunDiShuiFuWu\\changchundishui\\app\\src\\main\\res\\layout\\fragment_default1.xml"
+    },
+    {
+        "merged": "D:\\workspace\\ChangChunDiShuiFuWu\\changchundishui\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_apprisal_bg_pre.png.flat",
+        "source": "D:\\workspace\\ChangChunDiShuiFuWu\\changchundishui\\app\\src\\main\\res\\drawable-mdpi\\apprisal_bg_pre.png"
+    },
+    {
+        "merged": "D:\\workspace\\ChangChunDiShuiFuWu\\changchundishui\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "D:\\workspace\\ChangChunDiShuiFuWu\\changchundishui\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\workspace\\ChangChunDiShuiFuWu\\changchundishui\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_qdwdfwzcpj.png.flat",
+        "source": "D:\\workspace\\ChangChunDiShuiFuWu\\changchundishui\\app\\src\\main\\res\\drawable-mdpi\\qdwdfwzcpj.png"
+    },
+    {
+        "merged": "D:\\workspace\\ChangChunDiShuiFuWu\\changchundishui\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_apprisal_bmy_bg_nor.png.flat",
+        "source": "D:\\workspace\\ChangChunDiShuiFuWu\\changchundishui\\app\\src\\main\\res\\drawable-mdpi\\apprisal_bmy_bg_nor.png"
+    },
+    {
+        "merged": "D:\\workspace\\ChangChunDiShuiFuWu\\changchundishui\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_default_bg.jpg.flat",
+        "source": "D:\\workspace\\ChangChunDiShuiFuWu\\changchundishui\\app\\src\\main\\res\\drawable-mdpi\\default_bg.jpg"
+    },
+    {
+        "merged": "D:\\workspace\\ChangChunDiShuiFuWu\\changchundishui\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_user_info.xml.flat",
+        "source": "D:\\workspace\\ChangChunDiShuiFuWu\\changchundishui\\app\\src\\main\\res\\layout\\fragment_user_info.xml"
+    },
+    {
+        "merged": "D:\\workspace\\ChangChunDiShuiFuWu\\changchundishui\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_coffee.png.flat",
+        "source": "D:\\workspace\\ChangChunDiShuiFuWu\\changchundishui\\app\\src\\main\\res\\drawable-mdpi\\coffee.png"
+    },
+    {
+        "merged": "D:\\workspace\\ChangChunDiShuiFuWu\\changchundishui\\app\\build\\intermediates\\res\\merged\\debug\\drawable_appraisal_img_bg.xml.flat",
+        "source": "D:\\workspace\\ChangChunDiShuiFuWu\\changchundishui\\app\\src\\main\\res\\drawable\\appraisal_img_bg.xml"
+    },
+    {
+        "merged": "D:\\workspace\\ChangChunDiShuiFuWu\\changchundishui\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_fivestar.png.flat",
+        "source": "D:\\workspace\\ChangChunDiShuiFuWu\\changchundishui\\app\\src\\main\\res\\drawable-mdpi\\ic_fivestar.png"
+    },
+    {
+        "merged": "D:\\workspace\\ChangChunDiShuiFuWu\\changchundishui\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ztfw_down.png.flat",
+        "source": "D:\\workspace\\ChangChunDiShuiFuWu\\changchundishui\\app\\src\\main\\res\\drawable-mdpi\\ztfw_down.png"
+    },
+    {
+        "merged": "D:\\workspace\\ChangChunDiShuiFuWu\\changchundishui\\app\\build\\intermediates\\res\\merged\\debug\\raw_comment.wav.flat",
+        "source": "D:\\workspace\\ChangChunDiShuiFuWu\\changchundishui\\app\\src\\main\\res\\raw\\comment.wav"
+    },
+    {
+        "merged": "D:\\workspace\\ChangChunDiShuiFuWu\\changchundishui\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_main_bg_bottom.png.flat",
+        "source": "D:\\workspace\\ChangChunDiShuiFuWu\\changchundishui\\app\\src\\main\\res\\drawable-mdpi\\main_bg_bottom.png"
+    },
+    {
+        "merged": "D:\\workspace\\ChangChunDiShuiFuWu\\changchundishui\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_record_video.xml.flat",
+        "source": "D:\\workspace\\ChangChunDiShuiFuWu\\changchundishui\\app\\src\\main\\res\\layout\\fragment_record_video.xml"
+    },
+    {
+        "merged": "D:\\workspace\\ChangChunDiShuiFuWu\\changchundishui\\app\\build\\intermediates\\res\\merged\\debug\\layout_view_qs_select.xml.flat",
+        "source": "D:\\workspace\\ChangChunDiShuiFuWu\\changchundishui\\app\\src\\main\\res\\layout\\view_qs_select.xml"
+    }
+]

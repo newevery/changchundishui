@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#000000</color>
+    <color name="white">#ffffff</color>
+    <declare-styleable name="RounderImageView"><attr format="dimension" name="border_width"/><attr format="color" name="border_inside_color"/><attr format="color" name="border_outside_color"/></declare-styleable>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="appraisal_btn_margingSize">45dp</dimen>
+    <dimen name="business_txt_Size">30sp</dimen>
+    <dimen name="drawable_padding">45dp</dimen>
+    <dimen name="jiaoHao_img_margin_left">30dp</dimen>
+    <dimen name="jiaoHao_img_margin_right">50dp</dimen>
+    <dimen name="pop_width">280dp</dimen>
+    <dimen name="public_right_margin_appraisal_top">60dp</dimen>
+    <dimen name="public_right_margin_top">80dp</dimen>
+    <dimen name="userHeadHeight">200dp</dimen>
+    <dimen name="userHeadSize">165dp</dimen>
+    <dimen name="userHeadWidth">165dp</dimen>
+    <dimen name="userInfoSize">26sp</dimen>
+    <dimen name="userInfo_star_marginLeft">5dp</dimen>
+    <drawable name="black8f">#8f000000</drawable>
+    <drawable name="noColor">#00000000</drawable>
+    <drawable name="trans_bg">#00000000</drawable>
+    <string name="action_settings">Settings</string>
+    <string name="app_btn_cancel">取	消</string>
+    <string name="app_btn_ok">确	定</string>
+    <string name="app_image_defaultTips">	</string>
+    <string name="app_name">DiShuiFw</string>
+    <string name="handleBusiness_mc">业务名称：</string>
+    <string name="handleBusiness_need_blsx">办理时限：</string>
+    <string name="handleBusiness_need_lc">业务流程：</string>
+    <string name="handleBusiness_need_sm">业务说明：</string>
+    <string name="handleBusiness_need_sxcl">所需材料：</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="qs_ans_yes"> 是</string>
+    <string name="qs_ques1_1">是否严格执行中央“八项规定”</string>
+    <string name="qs_ques1_2">是否验证整改“四风”问题</string>
+    <string name="qs_ques1_3">是否热情服务纳税人</string>
+    <string name="qs_ques1_4">是否认真办理涉税事项</string>
+    <string name="qs_ques_1">是否做到严以修身</string>
+    <string name="qs_ques_2">是否做到严艺律己</string>
+    <string name="qs_ques_3">是否做到严以用权</string>
+    <string name="qs_ques_4">是否做到对党忠诚</string>
+    <string name="qs_ques_5">是否做到个人干净</string>
+    <string name="qs_ques_6">是否做到敢于担当</string>
+    <string name="qs_tips_title1">执行“三严三实”和“忠诚干净担当”专题教育情况</string>
+    <string name="qs_tips_title2">改进工作作风情况</string>
+    <string name="serverState_off">非工作状态</string>
+    <string name="serverState_pause">暂停服务</string>
+    <string name="serverState_runing">正在服务</string>
+    <string name="serverState_welcome">欢迎光临</string>
+    <string name="serverState_working">工作中</string>
+    <string name="userInfo_No">工号：</string>
+    <string name="userInfo_job">岗位：</string>
+    <string name="userInfo_name">姓名：</string>
+    <string name="userInfo_star">服务星级</string>
+    <string name="userInfo_tips_No">工号：</string>
+    <string name="userInfo_tips_job">岗位：</string>
+    <string name="userInfo_tips_name">姓名：</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+
+
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+    <style name="bmyContainer">
+        <item name="android:layout_width">120dp</item>
+        <item name="android:layout_height">100dp</item>
+        <item name="android:background">@drawable/appraisal_bmy_bg</item>
+        <item name="android:gravity">center</item>
+        <item name="android:clickable">true</item>
+        <!-- <item name="android:layout_marginLeft">30dp</item> -->
+    </style>
+    <style name="bmyText">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">24sp</item>
+    </style>
+    <style name="business_txt">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginLeft">80dp</item>
+        <item name="android:layout_marginTop">40dp</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">26sp</item>
+    </style>
+    <style name="pjiaBtn">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">@drawable/appraisal_img_bg</item>
+        <item name="android:gravity">center</item>
+        <item name="android:paddingTop">10dp</item>
+        <item name="android:paddingBottom">5dp</item>
+        <item name="android:clickable">true</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">18sp</item>
+    </style>
+    <style name="qs_ans">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginLeft">20dp</item>
+<!--         <item name="android:layout_marginRight">170dp</item> -->
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:text">@string/qs_ans_yes</item>
+    </style>
+    <style name="qs_txt">
+        <item name="android:layout_width">260dp</item>
+        <item name="android:layout_height">wrap_content</item>
+<!--         <item name="android:layout_weight">1</item> -->
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">18sp</item>
+    </style>
+    <style name="qs_txtTitle">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+    <style name="userInfo">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">@dimen/userInfoSize</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">20dp</item>
+        <item name="android:gravity">left</item>
+    </style>
+</resources>

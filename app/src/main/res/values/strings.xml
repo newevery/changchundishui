@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DiShuiFw</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_btn_ok">确&#x0009;定</string>
+    <string name="app_btn_cancel">取&#x0009;消</string>
+    <string name="app_image_defaultTips">&#x0009;</string>
+    <string name="userInfo_job">岗位：</string>
+    <string name="userInfo_name">姓名：</string>
+    <string name="userInfo_No">工号：</string>
+    <string name="userInfo_tips_job">岗位：</string>
+    <string name="userInfo_tips_name">姓名：</string>
+    <string name="userInfo_tips_No">工号：</string>
+    <string name="userInfo_star">服务星级</string>
+    
+    <string name="handleBusiness_mc">业务名称：</string>
+    <string name="handleBusiness_need_sm">业务说明：</string>
+    <string name="handleBusiness_need_lc">业务流程：</string>
+    <string name="handleBusiness_need_sxcl">所需材料：</string>
+    <string name="handleBusiness_need_blsx">办理时限：</string>
+    
+    <string name="serverState_off">非工作状态</string>
+    <string name="serverState_working">工作中</string>
+    <string name="serverState_runing">正在服务</string>
+    <string name="serverState_pause">暂停服务</string>
+    <string name="serverState_welcome">欢迎光临</string>
+    
+    <!-- 文件调查 -->
+    <string name="qs_tips_title1">执行“三严三实”和“忠诚干净担当”专题教育情况</string>
+    <string name="qs_ques_1">是否做到严以修身</string>
+    <string name="qs_ques_2">是否做到严艺律己</string>
+    <string name="qs_ques_3">是否做到严以用权</string>
+    <string name="qs_ques_4">是否做到对党忠诚</string>
+    <string name="qs_ques_5">是否做到个人干净</string>
+    <string name="qs_ques_6">是否做到敢于担当</string>
+    
+    <string name="qs_tips_title2">改进工作作风情况</string>
+    <string name="qs_ques1_1">是否严格执行中央“八项规定”</string>
+    <string name="qs_ques1_2">是否验证整改“四风”问题</string>
+    <string name="qs_ques1_3">是否热情服务纳税人</string>
+    <string name="qs_ques1_4">是否认真办理涉税事项</string>
+    <string name="qs_ans_yes"> 是</string>
+    
+
+</resources>

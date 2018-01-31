@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    
+    <drawable name="black8f">#8f000000</drawable> 
+	<drawable name="trans_bg">#00000000</drawable> 
+	<drawable name="noColor">#00000000</drawable> 
+    
+</resources>

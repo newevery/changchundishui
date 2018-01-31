@@ -1,0 +1,28 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    
+    <dimen name="userInfo_star_marginLeft">5dp</dimen>
+    <dimen name="userInfoSize">26sp</dimen>
+    <dimen name="userHeadSize">165dp</dimen>
+    
+    <dimen name="userHeadWidth">165dp</dimen>
+    <dimen name="userHeadHeight">200dp</dimen>
+    
+    <dimen name="business_txt_Size">30sp</dimen>
+    
+    <dimen name="pop_width">280dp</dimen>
+    
+    <dimen name="drawable_padding">45dp</dimen>
+    
+    <dimen name="jiaoHao_img_margin_left">30dp</dimen>
+    <dimen name="jiaoHao_img_margin_right">50dp</dimen>
+    
+    <dimen name="appraisal_btn_margingSize">45dp</dimen>
+    
+    <dimen name="public_right_margin_top">80dp</dimen>
+    <dimen name="public_right_margin_appraisal_top">60dp</dimen>
+
+</resources>
